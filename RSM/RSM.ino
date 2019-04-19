@@ -23,7 +23,7 @@ unsigned long zeit = 0;
 void sloth (boolean FrTr, int wohin){
   
  if(FrTr == true){
-     if((wohin)>6){
+     if((wohin)>5){
         eyes.update();
         zeit = millis(); 
         while((millis()-zeit)<48){
@@ -64,7 +64,7 @@ void sloth (boolean FrTr, int wohin){
 
  
   else{
-     if((wohin)>6){
+     if((wohin)>5){
         zeit = millis(); 
         while((millis()-zeit)<48){
         eyes.update();
