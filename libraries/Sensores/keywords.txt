@@ -1,0 +1,7 @@
+Sensores	KEYWORD1
+update	KEYWORD2
+getNor	KEYWORD2
+getOes	KEYWORD2
+getSul	KEYWORD2
+getLes	KEYWORD2
+
