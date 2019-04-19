@@ -1,1 +1,1 @@
-Para informações a respeito de instalação de bibliotecas, acesso: http://www.arduino.cc/en/Guide/Libraries
+São as bibliotecas utilizadas no programa RSM, possui a biblioteca "Sensores", basicamente ela converte o valor bruto dado pelos sensores em valores que podem ser lidos com mais facilidade, e a biblioteca "motor", que estabelece uma movimentação ao robô.
