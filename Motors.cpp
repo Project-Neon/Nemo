@@ -2,7 +2,6 @@
 // Initialize pins
 void Motors::init(){
 
-  pinMode(Stand_by, OUTPUT);
   pinMode(PWMA, OUTPUT);
   pinMode(AIN1, OUTPUT);
   pinMode(AIN2, OUTPUT);
@@ -10,7 +9,6 @@ void Motors::init(){
   pinMode(PWMB, OUTPUT);
   pinMode(BIN1, OUTPUT);
   pinMode(BIN2, OUTPUT);
-  digitalWrite(Stand_by, HIGH);
 
 }
 
